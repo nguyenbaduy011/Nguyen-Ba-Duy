@@ -13,10 +13,6 @@
 - **Databases:** PostgreSQL, Microsoft SQL Server
 - **Tools & Others:** Git, GitHub, Postman, Vercel, JWT
 
-## Connect
-
-- [Facebook](https://facebook.com/badnguyy)
-
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbaduy011&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
